@@ -1,4 +1,4 @@
-# Desafios del primero modulo
+# Desafios del primer modulo
 ## Esta es la lista de los desafios del primer modulo de desarrollo web
 
 - Desafio CV
